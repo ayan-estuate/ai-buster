@@ -186,4 +186,5 @@ Make sure your `.gitignore` includes:
   *.log
   *.zip
   *.xlsx
+   *.properties (to maintain confidentiality)
 ```
